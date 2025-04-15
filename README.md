@@ -20,8 +20,8 @@
   <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/web.png" alt="Website" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="Gmail" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/x.png" alt="X" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
 </p>
 
 ## 🛠️ Languages and Tools
