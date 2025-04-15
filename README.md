@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssgwp" alt="ssgwp" /></a> </p>
 
+<br>
+
 - 🔭 I’m currently working on **My portfolio AI**
 
 - 🌱 I’m currently learning **React, Node js, Express js**
@@ -14,6 +16,8 @@
 - 📫 How to reach me: <a href="mailto:info@sinethsandeepa.com" target="_blank">info@sinethsandeepa.com</a>
 
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/11UeRtybeWPid3SOBhnqorEWEdMz0Jq8U/view?usp=sharing" target="_blank">MY RESUME</a>
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
