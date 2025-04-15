@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React, Node js, Express js**
 
-- 👨‍💻 All of my projects are available at [https://sinethsandeepa.com/](https://sinethsandeepa.com/)
+- 👨‍💻 All of my projects are available at <a href="https://sinethsandeepa.com/" target="_blank">MY WEBSITE</a>
 
-- 📫 How to reach me **info@sinethsandeepa.com**
+- 📫 How to reach me: <a href="mailto:info@sinethsandeepa.com" target="_blank">info@sinethsandeepa.com</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11UeRtybeWPid3SOBhnqorEWEdMz0Jq8U/view?usp=sharing](https://drive.google.com/file/d/11UeRtybeWPid3SOBhnqorEWEdMz0Jq8U/view?usp=sharing)
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/11UeRtybeWPid3SOBhnqorEWEdMz0Jq8U/view?usp=sharing" target="_blank">MY RESUME</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
