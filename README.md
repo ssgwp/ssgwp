@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/web.png" alt="Website" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/web.png" alt="Website" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="Gmail" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="40" height="40"/>
