@@ -20,12 +20,22 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/web.png" alt="Website" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/mail.png" alt="Gmail" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/x.png" alt="X" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
+<p align="left" style="display: flex; gap: 1.5rem;">
+  <a href="https://sinethsandeepa.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/web.png" alt="Website" width="40" height="40"/>
+  </a>
+  <a href="mailto:info@sinethsandeepa.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/mail.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ssgwp" target="_blank">
+    <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/ss_gwp" target="_blank">
+    <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/x.png" alt="X" width="40" height="40"/>
+  </a>
+  <a href="https://wa.me/message/GG5LJNC5SSOMJ1" target="_blank">
+    <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
+  </a>
 </p>
 <br>
 
