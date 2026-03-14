@@ -1,113 +1,165 @@
-<h1 align="center">Hi 👋, I'm Sineth Sandeepa</h1>
-<h3 align="center">A Software Engineer from Sri Lanka</h3>
+# Hi, I'm Sineth Sandeepa
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssgwp&label=Profile%20views&color=0e75b6&style=flat" alt="ssgwp" /> </p>
+A passionate Software Engineer focused on building scalable, real-world web applications that solve meaningful problems.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssgwp" alt="ssgwp" /></a> </p>
+## Highlights
 
-<br>
+- **Full-Stack Dev**: React, Next.js, Node.js, .NET
+- **Currently**: React Dev Intern @ ESOFT Technologies
+- **Academic**: MSc, BEng (Hons), HND, Diploma
+- **Interests**: AI, Cloud Deployment, Architecture
 
-- 🔭 I’m currently working on **My portfolio AI**
+## About
 
-- 🌱 I’m currently learning **React, Node js, Express js**
+I'm Sineth Sandeepa, a passionate Software Engineer focused on building scalable, real-world web applications that solve meaningful problems.
 
-- 👨‍💻 All of my projects are available at <a href="https://sinethsandeepa.com/" target="_blank">MY WEBSITE</a>
+I specialize in full-stack development using technologies such as React, Next.js, Node.js, MongoDB, and .NET. I've developed platforms including a virtual internship system connecting students with companies, AI-powered chatbot solutions, and performance-driven web applications.
 
-- 📫 How to reach me: <a href="mailto:info@sinethsandeepa.com" target="_blank">info@sinethsandeepa.com</a>
+Currently, I work as a Full-Time React Developer Intern at ESOFT Technologies Pvt Ltd, contributing to modern web applications, improving UI performance, and implementing scalable frontend architectures using industry best practices.
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/11UeRtybeWPid3SOBhnqorEWEdMz0Jq8U/view?usp=sharing" target="_blank">MY RESUME</a>
+Academically, I completed a Diploma in Information Technology and English at ESOFT Metro Campus, a Higher National Diploma (HND) in Software Engineering awarded by Pearson (UK), a BEng (Hons) Software Engineering Top-Up degree from London Metropolitan University, and I am pursuing a Master's degree in Software Engineering at Kingston University London, strengthening my expertise in advanced architecture and system design.
 
-<br>
+## Education
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; gap: 1.5rem;">
-  <a href="https://sinethsandeepa.com" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/web.png" alt="Website" width="40" height="40"/>
+- **2026 [Feb] - Present**: MSc in Software Engineering, Kingston University London
+- **2025 [Feb] - 2026 [Jan]**: BEng (Hons) Software Engineering, London Metropolitan University
+- **2023 [Jul] - 2025 [Jan]**: Higher National Diploma (HND) in Software Engineering, Pearson (UK) - ESOFT Metro Campus
+- **2023 [Jun] - 2024 [Mar]**: Diploma in Information Technology, ESOFT Metro Campus
+- **2023 [Jun] - 2024 [Feb]**: Diploma in English, ESOFT Metro Campus
+- **2026 [Jan]**: GCE Advanced Level (2025), St. Thomas' College, Matara
+- **2023 [May]**: GCE Ordinary Level (2022), St. Thomas' College, Matara
+
+## Experience
+
+- **2026 [Jan] - Present**: React Developer Intern, ESOFT Technologies Pvt Ltd
+- **2023 [Jun] - Present**: Student - Self Development, Personal Development
+
+## Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" alt="Pascal" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" alt="NoSQL" width="40" height="40" />
+</p>
+
+### Web Technologies
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/react/764ABC" alt="Zustand" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Daisy%20UI-5A0EF8?style=flat&logo=daisyui&logoColor=white" alt="Daisy UI" height="28" />
+  <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=flat&logo=shadcnui&logoColor=white" alt="Shadcn UI" height="28" />
+  <img src="https://img.shields.io/badge/Radix%20UI-161618?style=flat&logo=radixui&logoColor=white" alt="Radix UI" height="28" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="MERN Stack" width="40" height="40" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40" />
+</p>
+
+### AI / ML
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+</p>
+
+### Authentication
+
+<p>
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" height="28" />
+  <img src="https://img.shields.io/badge/Clerk%20Auth-6C47FF?style=flat&logo=clerk&logoColor=white" alt="Clerk Auth" height="28" />
+</p>
+
+### DevOps / Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" height="28" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" alt="Railway" height="28" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 110' fill='%235B45CE'><path d='M 20,60 L 20,35 C 20,5 80,5 80,35 L 80,60 L 80,80 C 80,105 100,105 100,85 A 5,5 0 0,0 90,85 C 90,95 70,95 70,80 L 70,60 L 63,60 L 63,80 A 5,5 0 0,1 53,80 L 53,60 L 47,60 L 47,80 A 5,5 0 0,1 37,80 L 37,60 L 30,60 L 30,80 C 30,105 10,105 10,85 A 5,5 0 0,0 0,85 C 0,105 20,105 20,80 L 20,60 Z' /><ellipse cx='35' cy='45' rx='6' ry='10' fill='white' /><ellipse cx='65' cy='45' rx='6' ry='10' fill='white' /></svg>" alt="Jules" width="40" height="40" />
+</p>
+
+## Connect With Me
+
+<p align="left">
+  <a href="mailto:your.email@example.com" aria-label="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-  <a href="mailto:info@sinethsandeepa.com" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/mail.png" alt="Gmail" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/94711301099" aria-label="WhatsApp" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="48" height="48" />
   </a>
-  <a href="https://www.linkedin.com/in/ssgwp" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ssgwp" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/ss_gwp" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/x.png" alt="X" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ssgwp" aria-label="GitHub" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <a href="https://wa.me/message/GG5LJNC5SSOMJ1" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/ssgwp/ssgwp/main/img/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <a href="https://x.com/ssgwp" aria-label="X" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/x/white" alt="X" width="48" height="48" />
   </a>
 </p>
-<br>
 
-## 🛠️ Languages and Tools
+## Operating Systems
 
-### 👨‍💻 Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
 </p>
-<br>
 
-### 🌐 Frontend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssgwp&show_icons=true&locale=en&layout=compact" alt="ssgwp top languages" />
 </p>
-<br>
-
-### 🔧 Backend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-</p>
-<br>
-
-### 🧰 Frameworks / Libraries / Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-</p>
-<br>
-
-### 🗃️ Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-</p>
-<br>
-
-
-### 💻 IDEs / Editors
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python IDE" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-</p>
-<br>
-
-### 🖥️ Operating Systems
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssgwp&show_icons=true&locale=en&layout=compact" alt="ssgwp" /></p>
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
