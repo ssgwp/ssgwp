@@ -22,59 +22,59 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 ## Education
 
 <table style="border: none; border-collapse: collapse;">
-  <tr style="height: 80px;">
-    <td width="132" valign="top">
+  <tr style="height: 96px;">
+    <td width="132" valign="middle" style="border: none; vertical-align: middle;">
       <img src="./img/education/kingston-university.jpg" alt="Kingston University London logo" width="110" />
     </td>
-    <td valign="top">
+    <td valign="middle" style="border: none; vertical-align: middle;">
       <strong>2026 [Feb] - Present</strong>: MSc in Software Engineering, Kingston University London
     </td>
   </tr>
-  <tr style="height: 80px;">
-    <td width="132" valign="top">
+  <tr style="height: 96px;">
+    <td width="132" valign="middle" style="border: none; vertical-align: middle;">
       <img src="./img/education/london-metropolitan-university.jpg" alt="London Metropolitan University logo" width="110" />
     </td>
-    <td valign="top">
+    <td valign="middle" style="border: none; vertical-align: middle;">
       <strong>2025 [Feb] - 2026 [Jan]</strong>: BEng (Hons) Software Engineering, London Metropolitan University
     </td>
   </tr>
-  <tr style="height: 80px;">
-    <td width="132" valign="top">
+  <tr style="height: 96px;">
+    <td width="132" valign="middle" style="border: none; vertical-align: middle;">
       <img src="./img/education/pearson.png" alt="Pearson logo" width="110" />
     </td>
-    <td valign="top">
-      <strong>2023 [Jul] - 2025 [Jan]</strong>: Higher National Diploma (HND) in Software Engineering, Pearson (UK) - ESOFT Metro Campus
+    <td valign="middle" style="border: none; vertical-align: middle;">
+      <strong>2023 [Jul] - 2025 [Jan]</strong>: Higher National Diploma (HND) in Software Engineering, Pearson (UK)
     </td>
   </tr>
-  <tr style="height: 80px;">
-    <td width="132" valign="top">
+  <tr style="height: 96px;">
+    <td width="132" valign="middle" style="border: none; vertical-align: middle;">
       <img src="./img/education/esoft.png" alt="ESOFT Metro Campus logo" width="110" />
     </td>
-    <td valign="top">
+    <td valign="middle" style="border: none; vertical-align: middle;">
       <strong>2023 [Jun] - 2024 [Mar]</strong>: Diploma in Information Technology, ESOFT Metro Campus
     </td>
   </tr>
-  <tr style="height: 80px;">
-    <td width="132" valign="top">
+  <tr style="height: 96px;">
+    <td width="132" valign="middle" style="border: none; vertical-align: middle;">
       <img src="./img/education/esoft.png" alt="ESOFT Metro Campus logo" width="110" />
     </td>
-    <td valign="top">
+    <td valign="middle" style="border: none; vertical-align: middle;">
       <strong>2023 [Jun] - 2024 [Feb]</strong>: Diploma in English, ESOFT Metro Campus
     </td>
   </tr>
-  <tr style="height: 80px;">
-    <td width="132" valign="top">
+  <tr style="height: 96px;">
+    <td width="132" valign="middle" style="border: none; vertical-align: middle;">
       <img src="./img/education/stc.png" alt="ESOFT Metro Campus logo" width="90" />
     </td>
-    <td valign="top">
+    <td valign="middle" style="border: none; vertical-align: middle;">
       <strong>2026 [Jan]</strong>: GCE Advanced Level (2025), St. Thomas' College, Matara
     </td>
   </tr>
-  <tr style="height: 80px;">
-    <td width="132" valign="top">
+  <tr style="height: 96px;">
+    <td width="132" valign="middle" style="border: none; vertical-align: middle;">
       <img src="./img/education/stc.png" alt="ESOFT Metro Campus logo" width="90" />
     </td>
-    <td valign="top">
+    <td valign="middle" style="border: none; vertical-align: middle;">
       <strong>2023 [May]</strong>: GCE Ordinary Level (2022), St. Thomas' College, Matara
     </td>
   </tr>
