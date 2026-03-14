@@ -1,17 +1,13 @@
 # Hi, I'm Sineth Sandeepa
 
-<p align="center">
-  <img src="https://github.com/ssgwp.png" alt="Sineth Sandeepa GitHub profile photo" width="180" style="border-radius: 50%;" />
-</p>
-
 A passionate Software Engineer focused on building scalable, real-world web applications that solve meaningful problems.
 
 ## Highlights
 
-- **Full-Stack Dev**: React, Next.js, Node.js, .NET
-- **Currently**: React Dev Intern @ ESOFT Technologies
-- **Academic**: MSc, BEng (Hons), HND, Diploma
-- **Interests**: AI, Cloud Deployment, Architecture
+- 💻 **Full-Stack Dev**: React, Next.js, Node.js, .NET
+- 🧑‍💼 **Currently**: React Dev Intern @ ESOFT Technologies
+- 🎓 **Academic**: MSc, BEng (Hons), HND, Diploma
+- 🚀 **Interests**: AI, Cloud Deployment, Architecture
 
 ## About
 
