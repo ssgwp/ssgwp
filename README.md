@@ -1,5 +1,9 @@
 # Hi, I'm Sineth Sandeepa
 
+<p align="center">
+  <img src="https://github.com/ssgwp.png" alt="Sineth Sandeepa GitHub profile photo" width="180" style="border-radius: 50%;" />
+</p>
+
 A passionate Software Engineer focused on building scalable, real-world web applications that solve meaningful problems.
 
 ## Highlights
