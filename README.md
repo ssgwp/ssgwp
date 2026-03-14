@@ -21,13 +21,64 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 
 ## Education
 
-- **2026 [Feb] - Present**: MSc in Software Engineering, Kingston University London
-- **2025 [Feb] - 2026 [Jan]**: BEng (Hons) Software Engineering, London Metropolitan University
-- **2023 [Jul] - 2025 [Jan]**: Higher National Diploma (HND) in Software Engineering, Pearson (UK) - ESOFT Metro Campus
-- **2023 [Jun] - 2024 [Mar]**: Diploma in Information Technology, ESOFT Metro Campus
-- **2023 [Jun] - 2024 [Feb]**: Diploma in English, ESOFT Metro Campus
-- **2026 [Jan]**: GCE Advanced Level (2025), St. Thomas' College, Matara
-- **2023 [May]**: GCE Ordinary Level (2022), St. Thomas' College, Matara
+<table>
+  <tr>
+    <td width="132" valign="top">
+      <img src="./img/education/kingston-university.jpg" alt="Kingston University London logo" width="110" />
+    </td>
+    <td valign="top">
+      <strong>2026 [Feb] - Present</strong>: MSc in Software Engineering, Kingston University London
+    </td>
+  </tr>
+  <tr>
+    <td width="132" valign="top">
+      <img src="./img/education/london-metropolitan-university.jpg" alt="London Metropolitan University logo" width="110" />
+    </td>
+    <td valign="top">
+      <strong>2025 [Feb] - 2026 [Jan]</strong>: BEng (Hons) Software Engineering, London Metropolitan University
+    </td>
+  </tr>
+  <tr>
+    <td width="132" valign="top">
+      <img src="./img/education/pearson.png" alt="Pearson logo" width="110" />
+    </td>
+    <td valign="top">
+      <strong>2023 [Jul] - 2025 [Jan]</strong>: Higher National Diploma (HND) in Software Engineering, Pearson (UK) - ESOFT Metro Campus
+    </td>
+  </tr>
+  <tr>
+    <td width="132" valign="top">
+      <img src="./img/education/esoft.png" alt="ESOFT Metro Campus logo" width="110" />
+    </td>
+    <td valign="top">
+      <strong>2023 [Jun] - 2024 [Mar]</strong>: Diploma in Information Technology, ESOFT Metro Campus
+    </td>
+  </tr>
+  <tr>
+    <td width="132" valign="top">
+      <img src="./img/education/esoft.png" alt="ESOFT Metro Campus logo" width="110" />
+    </td>
+    <td valign="top">
+      <strong>2023 [Jun] - 2024 [Feb]</strong>: Diploma in English, ESOFT Metro Campus
+    </td>
+  </tr>
+  <tr>
+    <td width="132" valign="top">
+      <img src="./img/education/stc.png" alt="ESOFT Metro Campus logo" width="90" />
+    </td>
+    <td valign="top">
+      <strong>2026 [Jan]</strong>: GCE Advanced Level (2025), St. Thomas' College, Matara
+    </td>
+  </tr>
+  <tr>
+    <td width="132" valign="top">
+      <img src="./img/education/stc.png" alt="ESOFT Metro Campus logo" width="90" />
+    </td>
+    <td valign="top">
+      <strong>2023 [May]</strong>: GCE Ordinary Level (2022), St. Thomas' College, Matara
+    </td>
+  </tr>
+</table>
 
 ## Experience
 
@@ -40,13 +91,21 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" alt="Pascal" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" alt="NoSQL" width="40" height="40" />
 </p>
 
@@ -54,7 +113,9 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40" />
 </p>
 
@@ -62,14 +123,23 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/react/764ABC" alt="Zustand" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Daisy%20UI-5A0EF8?style=flat&logo=daisyui&logoColor=white" alt="Daisy UI" height="28" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=flat&logo=shadcnui&logoColor=white" alt="Shadcn UI" height="28" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Radix%20UI-161618?style=flat&logo=radixui&logoColor=white" alt="Radix UI" height="28" />
 </p>
 
@@ -77,11 +147,17 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="MERN Stack" width="40" height="40" />
 </p>
 
@@ -89,9 +165,13 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40" />
 </p>
 
@@ -105,6 +185,7 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 
 <p>
   <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" height="28" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Clerk%20Auth-6C47FF?style=flat&logo=clerk&logoColor=white" alt="Clerk Auth" height="28" />
 </p>
 
@@ -112,15 +193,25 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" height="28" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" alt="Railway" height="28" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" height="28" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 110' fill='%235B45CE'><path d='M 20,60 L 20,35 C 20,5 80,5 80,35 L 80,60 L 80,80 C 80,105 100,105 100,85 A 5,5 0 0,0 90,85 C 90,95 70,95 70,80 L 70,60 L 63,60 L 63,80 A 5,5 0 0,1 53,80 L 53,60 L 47,60 L 47,80 A 5,5 0 0,1 37,80 L 37,60 L 30,60 L 30,80 C 30,105 10,105 10,85 A 5,5 0 0,0 0,85 C 0,105 20,105 20,80 L 20,60 Z' /><ellipse cx='35' cy='45' rx='6' ry='10' fill='white' /><ellipse cx='65' cy='45' rx='6' ry='10' fill='white' /></svg>" alt="Jules" width="40" height="40" />
 </p>
 
@@ -163,6 +254,10 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+rce media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
