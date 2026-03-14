@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 110" role="img" aria-labelledby="title">
+  <title>Jules icon</title>
+  <path fill="#5B45CE" d="M20 60V35C20 5 80 5 80 35V80c0 25 20 25 20 5a5 5 0 0 0-10 0c0 10-20 10-20-5V60h-7v20a5 5 0 0 1-10 0V60h-6v20a5 5 0 0 1-10 0V60h-7v20c0 25-20 25-20 5a5 5 0 0 0-10 0c0 20 20 20 20-5V60Z"/>
+  <ellipse cx="35" cy="45" rx="6" ry="10" fill="#FFF"/>
+  <ellipse cx="65" cy="45" rx="6" ry="10" fill="#FFF"/>
+</svg>

@@ -212,7 +212,7 @@ Academically, I completed a Diploma in Information Technology and English at ESO
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
   &nbsp;&nbsp;
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 110' fill='%235B45CE'><path d='M 20,60 L 20,35 C 20,5 80,5 80,35 L 80,60 L 80,80 C 80,105 100,105 100,85 A 5,5 0 0,0 90,85 C 90,95 70,95 70,80 L 70,60 L 63,60 L 63,80 A 5,5 0 0,1 53,80 L 53,60 L 47,60 L 47,80 A 5,5 0 0,1 37,80 L 37,60 L 30,60 L 30,80 C 30,105 10,105 10,85 A 5,5 0 0,0 0,85 C 0,105 20,105 20,80 L 20,60 Z' /><ellipse cx='35' cy='45' rx='6' ry='10' fill='white' /><ellipse cx='65' cy='45' rx='6' ry='10' fill='white' /></svg>" alt="Jules" width="40" height="40" />
+  <img src="./img/jules.svg" alt="Jules" width="40" height="40" />
 </p>
 
 ## Connect With Me
