@@ -87,96 +87,42 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 
 ## Skills
 
-<table>
-  <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" alt="Pascal" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" alt="NoSQL" width="40" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Web Technologies</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />&nbsp;
-      <img src="https://cdn.simpleicons.org/react/764ABC" alt="Zustand" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />&nbsp;
-      <img src="https://img.shields.io/badge/Daisy%20UI-5A0EF8?style=flat&logo=daisyui&logoColor=white" alt="Daisy UI" height="28" />&nbsp;
-      <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=flat&logo=shadcnui&logoColor=white" alt="Shadcn UI" height="28" />&nbsp;
-      <img src="https://img.shields.io/badge/Radix%20UI-161618?style=flat&logo=radixui&logoColor=white" alt="Radix UI" height="28" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="MERN Stack" width="40" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>AI / ML</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Authentication</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" height="28" />&nbsp;
-      <img src="https://img.shields.io/badge/Clerk%20Auth-6C47FF?style=flat&logo=clerk&logoColor=white" alt="Clerk Auth" height="28" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>DevOps / Tools</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />&nbsp;
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" height="28" />&nbsp;
-      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" alt="Railway" height="28" />&nbsp;
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" height="28" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />&nbsp;
-      <img src="./img/jules.svg" alt="Jules" width="40" height="40" />
-    </td>
-  </tr>
-</table>
+**Programming Languages**  
+<img src="https://skillicons.dev/icons?i=python,cs,java,js,ts,php" alt="Programming Languages" />
+<img src="https://img.shields.io/badge/Pascal-CC342D?style=flat&logo=delphi&logoColor=white" alt="Pascal" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=databricks&logoColor=white" alt="NoSQL" />
+
+**Web Technologies**  
+<img src="https://skillicons.dev/icons?i=html,css,threejs" alt="Web Technologies" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,bootstrap" alt="Frontend" />
+<img src="https://img.shields.io/badge/Zustand-764ABC?style=flat&logo=react&logoColor=white" alt="Zustand" />
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white" alt="Daisy UI" />
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white" alt="Radix UI" />
+
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,flask" alt="Backend" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" alt="Socket.io" />
+<img src="https://img.shields.io/badge/MERN-3FA037?style=flat&logo=mongodb&logoColor=white" alt="MERN Stack" />
+
+**Databases**  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase" alt="Databases" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+
+**AI / ML**  
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="AI and ML" />
+
+**Authentication**  
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" />
+<img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat&logo=clerk&logoColor=white" alt="Clerk Auth" />
+
+**DevOps / Tools**  
+<img src="https://skillicons.dev/icons?i=docker,linux,vercel,cloudflare,git,github,gitlab,postman,figma" alt="DevOps and Tools" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" alt="Railway" />
+<img src="./img/jules.svg" alt="Jules" width="40" height="40" />
 
 ## Connect With Me
 
