@@ -124,35 +124,30 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" alt="Railway" />
 <img src="./img/jules.svg" alt="Jules" width="40" height="40" />
 
+## Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux" alt="Operating Systems" />
+</p>
+
 ## Connect With Me
 
 <p align="left">
   <a href="mailto:your.email@example.com" aria-label="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://wa.me/94711301099" aria-label="WhatsApp" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="48" height="48" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/ssgwp" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/ssgwp" aria-label="GitHub" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://x.com/ssgwp" aria-label="X" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/x/white" alt="X" width="48" height="48" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-</p>
-
-## Operating Systems
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
 </p>
 
 ## GitHub Stats
