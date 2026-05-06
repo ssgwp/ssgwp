@@ -87,9 +87,7 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 
 ## Skills
 
-### Programming Languages
-
-<p>
+<p><strong>Programming Languages:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
@@ -109,9 +107,7 @@ Academically, I completed a Diploma in Information Technology and English at ESO
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" alt="NoSQL" width="40" height="40" />
 </p>
 
-### Web Technologies
-
-<p>
+<p><strong>Web Technologies:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
@@ -119,9 +115,7 @@ Academically, I completed a Diploma in Information Technology and English at ESO
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40" />
 </p>
 
-### Frontend
-
-<p>
+<p><strong>Frontend:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
@@ -143,9 +137,7 @@ Academically, I completed a Diploma in Information Technology and English at ESO
   <img src="https://img.shields.io/badge/Radix%20UI-161618?style=flat&logo=radixui&logoColor=white" alt="Radix UI" height="28" />
 </p>
 
-### Backend
-
-<p>
+<p><strong>Backend:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
@@ -161,9 +153,7 @@ Academically, I completed a Diploma in Information Technology and English at ESO
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="MERN Stack" width="40" height="40" />
 </p>
 
-### Databases
-
-<p>
+<p><strong>Databases:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
@@ -175,23 +165,17 @@ Academically, I completed a Diploma in Information Technology and English at ESO
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40" />
 </p>
 
-### AI / ML
-
-<p>
+<p><strong>AI / ML:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
 </p>
 
-### Authentication
-
-<p>
+<p><strong>Authentication:</strong><br/>
   <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" height="28" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Clerk%20Auth-6C47FF?style=flat&logo=clerk&logoColor=white" alt="Clerk Auth" height="28" />
 </p>
 
-### DevOps / Tools
-
-<p>
+<p><strong>DevOps / Tools:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
@@ -249,7 +233,13 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssgwp&show_icons=true&locale=en&layout=compact" alt="ssgwp top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssgwp&theme=github_dark" alt="ssgwp top languages" />
+</p>
+
+## GitHub Achievements
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=ssgwp&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="ssgwp github achievements" />
 </p>
 
 <picture>
