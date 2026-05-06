@@ -4,8 +4,8 @@ A passionate Software Engineer focused on building scalable, real-world web appl
 
 ## Highlights
 
-- 💻 **Full-Stack Dev**: React, Next.js, Node.js, .NET
-- 🧑‍💼 **Currently**: React Dev Intern @ ESOFT Technologies
+- 💻 **Full-Stack Dev**: MERN Stack, Next.js, Python, .NET
+- 🧑‍💼 **Currently**: Associate React Dev @ ESOFT Technologies
 - 🎓 **Academic**: MSc, BEng (Hons), HND, Diploma
 - 🚀 **Interests**: AI, Cloud Deployment, Architecture
 
@@ -15,7 +15,7 @@ I'm Sineth Sandeepa, a passionate Software Engineer focused on building scalable
 
 I specialize in full-stack development using technologies such as React, Next.js, Node.js, MongoDB, and .NET. I've developed platforms including a virtual internship system connecting students with companies, AI-powered chatbot solutions, and performance-driven web applications.
 
-Currently, I work as a Full-Time React Developer Intern at ESOFT Technologies Pvt Ltd, contributing to modern web applications, improving UI performance, and implementing scalable frontend architectures using industry best practices.
+Currently, I work as a Full-Time Associate React Developer at ESOFT Technologies Pvt Ltd, contributing to modern web applications, improving UI performance, and implementing scalable frontend architectures using industry best practices.
 
 Academically, I completed a Diploma in Information Technology and English at ESOFT Metro Campus, a Higher National Diploma (HND) in Software Engineering awarded by Pearson (UK), a BEng (Hons) Software Engineering Top-Up degree from London Metropolitan University, and I am pursuing a Master's degree in Software Engineering at Kingston University London, strengthening my expertise in advanced architecture and system design.
 
@@ -82,8 +82,9 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 
 ## Experience
 
-- **2026 [Jan] - Present**: React Developer Intern, ESOFT Technologies Pvt Ltd
-- **2023 [Jun] - Present**: Student - Self Development, Personal Development
+- **2026 [APR] - Present** : Associate React Developer, ESOFT Technologies Pvt Ltd
+- **2026 [Jan] -2026 [APR]** : React Developer Intern, ESOFT Technologies Pvt Ltd
+- **2023 [Jun] - Present** : Student - Self Development, Personal Development
 
 ## Skills
 
