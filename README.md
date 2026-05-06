@@ -133,6 +133,9 @@ Academically, I completed a Diploma in Information Technology and English at ESO
 ## Connect With Me
 
 <p align="left">
+  <a href="https://sinethsandeepa.com" aria-label="Website" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
   <a href="mailto:your.email@example.com" aria-label="Email">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -147,6 +150,10 @@ Academically, I completed a Diploma in Information Technology and English at ESO
   </a>
   <a href="https://x.com/ssgwp" aria-label="X" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <br /><br />
+  <a href="https://sinethsandeepa.com/#contact" aria-label="Contact Me" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Contact%20Me-FF6B35?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Me" />
   </a>
 </p>
 
